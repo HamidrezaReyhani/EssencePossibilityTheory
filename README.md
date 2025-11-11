@@ -109,7 +109,7 @@ Email: [contact via GitHub](https://github.com/HamidrezaReyhani)
 ## 🌐 OpenLogic Initiative
 Part of the **OpenLogic Project**, an open theoretical platform for logical, mathematical, and metaphysical research.  
 For related works, see:  
-- [Alternative Perspective Theory](https://github.com/HamidrezaReyhani/Alternative-Perspective-Theory)
+- [Alternative Perspective Theory](https://github.com/HamidrezaReyhani/AlternativePerspectiveTheory)
 
 ---
 
